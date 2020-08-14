@@ -1,0 +1,13 @@
+.titulos{
+    background-color: cyan;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;           
+    font-size: large;
+    height: 600px;
+}
+
+.parrafo{
+    background-color: darkmagenta;
+    color: white;
+    height: 100px;
+}
